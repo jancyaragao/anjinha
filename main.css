@@ -11,6 +11,10 @@ body {
     font-family: 'Oswald', sans-serif !important;
 }
 
+.spotify {
+    padding: 30px 40px 0 40px;
+}
+
 .booklet {
     width: 900px;
     height: 607px;
